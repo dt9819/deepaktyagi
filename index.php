@@ -6,7 +6,7 @@ include("functions/functions.php");
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Shoppro | Ecommerce site new</title>
+		<title> Ecommerce site new</title>
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100">
 		<!-- <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css"> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
