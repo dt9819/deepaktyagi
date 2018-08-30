@@ -1,2 +1,0 @@
-# deepaktyagi
-my personal portfolio
